@@ -9,5 +9,6 @@
     <Import_RootNamespace>Tobey.BepInExExtensionMethods</Import_RootNamespace>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="$(MSBuildThisFileDirectory)BaseUnityPluginExtensions.cs" />
   </ItemGroup>
 </Project>
